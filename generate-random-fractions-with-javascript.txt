@@ -1,0 +1,6 @@
+function randomFraction(min,max) {
+
+  return Math.random();
+
+ 
+}

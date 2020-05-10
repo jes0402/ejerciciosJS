@@ -1,0 +1,8 @@
+// Setup
+var processed = 2;
+
+function processArg(num) {
+  return (7 + 3) / 5;
+}
+
+processed = processArg(7);

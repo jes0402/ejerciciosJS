@@ -1,0 +1,13 @@
+// Setup
+var testObj = {
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+testObj["an entree"];
+testObj["my side"];
+testObj["the drink"];
+
+var entreeValue = testObj["an entree"];   
+var drinkValue = testObj["the drink"]; 

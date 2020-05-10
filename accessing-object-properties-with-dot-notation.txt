@@ -1,0 +1,13 @@
+// Setup
+var testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
+};
+var hatballcap = testObj.hat;
+var shirtjersey = testObj.shirt;
+var shoescleats = testObj.shoes;
+
+
+var hatValue = testObj.hat;     
+var shirtValue = testObj.shirt;   
